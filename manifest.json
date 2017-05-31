@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Modify HTML",
+  "version": "0.1.0",
+  "description": "Change Mr.Trump and Donald Trump to Crime master Gogo",
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["http://*/*",
+                "https://*/*"
+    ]
+  }]
+
+}

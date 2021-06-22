@@ -3,7 +3,7 @@
 
   "name": "Modify HTML",
   "version": "0.1.0",
-  "description": "Change Mr.Trump and Donald Trump to Crime master Gogo",
+  "description": "Change some content a to required content b",
 
   "content_scripts": [{
     "js": ["content.js"],
